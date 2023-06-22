@@ -1,2 +1,0 @@
-# csmc-silhouette
-Cosmic Silhouette
